@@ -1,0 +1,11 @@
+*{
+    font-family: 'Bruno Ace SC', cursive;
+    font-family: 'Inter', sans-serif;
+}
+a{
+    color : black;
+}
+.sec-1{
+    padding : 10px;
+    border: 2px solid black;
+}
